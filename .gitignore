@@ -1,6 +1,2 @@
-source/doc/*
-source/docx/*
-source/old/*
-all/*
-all_test/*
-
+source/doc/**/*
+source/docx/**/*
