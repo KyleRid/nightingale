@@ -1,2 +1,2 @@
-source/doc/**/*
-source/docx/**/*
+source/doc/**/*.doc
+source/docx/**/*.docx
